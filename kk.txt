@@ -1,0 +1,1 @@
+https://www.ngdevelop.tech/angular-8-export-to-pdf-using-pdfmake/
